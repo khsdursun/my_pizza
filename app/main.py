@@ -240,3 +240,5 @@ def add_review(review: models.Review):
         return review
     finally:
         _close_conn(conn)
+
+        Al hasano de dursuno ф
